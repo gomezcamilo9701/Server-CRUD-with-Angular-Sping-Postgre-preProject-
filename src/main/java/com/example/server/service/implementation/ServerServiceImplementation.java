@@ -1,4 +1,4 @@
-package com.example.server.implementation;
+package com.example.server.service.implementation;
 
 import com.example.server.model.Server;
 import com.example.server.repo.ServerRepo;
